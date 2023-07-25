@@ -1,11 +1,11 @@
 # VR-Simulation-Airport
-Simulasi bandar udara menggunakan teknologi VR (Oculus Quest 2)
+Simulation of airport passenger procedures using VR technology (Oculus Quest 2)
 
-## Catatan
-Ini adalah Program Simulasi VR yang dijalankan dengan sebuah perangkat PC/Laptop
+## Notes
+This is a VR Simulation Program that runs on a PC/Laptop device
 
 ## Demo
 https://youtu.be/oLm0qSSHeiM
 
 ### Library dan Assets
-Untuk Library dan Assets projek ini tidak kami upload di Github :)
+We don't upload the Library and Assets for this project on Github :)
