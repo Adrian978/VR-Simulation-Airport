@@ -1,0 +1,73 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VRBuilder.Core", "VRBuilder.Core.csproj", "{b89bd61e-5dd8-a995-14ed-a1b54d38aff0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VRBuilder.BasicInteraction", "VRBuilder.BasicInteraction.csproj", "{99546821-de74-42c7-fdcb-40c2f3c227f7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{c8d93196-268c-d5e2-c0ef-0474444fc879}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VRBuilder.XRInteraction", "VRBuilder.XRInteraction.csproj", "{6e236fd5-fbdf-5adc-99ca-eac07f1bfb4b}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VRBuilder.BasicUI", "VRBuilder.BasicUI.csproj", "{a6d63645-4a0f-719c-1fd8-1bccf7abae99}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VRBuilder.TextToSpeech", "VRBuilder.TextToSpeech.csproj", "{e055221d-e2f7-3465-d610-8fd2b0fd77b9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VRBuilder.Editor", "VRBuilder.Editor.csproj", "{e6a6b660-e649-91ec-9c0d-d0745da4885b}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VRBuilder.Editor.TestTools", "VRBuilder.Editor.TestTools.csproj", "{3babfe12-d925-776d-c79a-fecc9b4fb667}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VRBuilder.Editor.XRInteraction", "VRBuilder.Editor.XRInteraction.csproj", "{2685d424-f8c2-4952-7d68-c4f39ab2a95d}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VRBuilder.Editor.BasicUI", "VRBuilder.Editor.BasicUI.csproj", "{d2ba4897-6ee6-c509-3abd-824da6be3224}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VRBuilder.Editor.PackageManager", "VRBuilder.Editor.PackageManager.csproj", "{785bcf71-dbc3-5693-46fc-d160fd6b13f5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VRBuilder.Editor.BasicInteraction", "VRBuilder.Editor.BasicInteraction.csproj", "{fd0ba64b-8207-19bb-0392-034c126effab}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VRBuilder.Editor.DemoScene", "VRBuilder.Editor.DemoScene.csproj", "{676554fe-062e-a050-4c62-b0e0fb2854f4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VRBuilder.Editor.TextToSpeech", "VRBuilder.Editor.TextToSpeech.csproj", "{b081fafd-5425-fe0f-1043-22d44404672b}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VRBuilder.Editor.PackageManager.XRInteraction", "VRBuilder.Editor.PackageManager.XRInteraction.csproj", "{593a4b37-4d23-0008-29fc-49257aa4e4a9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{b89bd61e-5dd8-a995-14ed-a1b54d38aff0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{b89bd61e-5dd8-a995-14ed-a1b54d38aff0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99546821-de74-42c7-fdcb-40c2f3c227f7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99546821-de74-42c7-fdcb-40c2f3c227f7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{c8d93196-268c-d5e2-c0ef-0474444fc879}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{c8d93196-268c-d5e2-c0ef-0474444fc879}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6e236fd5-fbdf-5adc-99ca-eac07f1bfb4b}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6e236fd5-fbdf-5adc-99ca-eac07f1bfb4b}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{a6d63645-4a0f-719c-1fd8-1bccf7abae99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{a6d63645-4a0f-719c-1fd8-1bccf7abae99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{e055221d-e2f7-3465-d610-8fd2b0fd77b9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{e055221d-e2f7-3465-d610-8fd2b0fd77b9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{e6a6b660-e649-91ec-9c0d-d0745da4885b}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{e6a6b660-e649-91ec-9c0d-d0745da4885b}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3babfe12-d925-776d-c79a-fecc9b4fb667}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3babfe12-d925-776d-c79a-fecc9b4fb667}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2685d424-f8c2-4952-7d68-c4f39ab2a95d}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2685d424-f8c2-4952-7d68-c4f39ab2a95d}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{d2ba4897-6ee6-c509-3abd-824da6be3224}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{d2ba4897-6ee6-c509-3abd-824da6be3224}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{785bcf71-dbc3-5693-46fc-d160fd6b13f5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{785bcf71-dbc3-5693-46fc-d160fd6b13f5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{fd0ba64b-8207-19bb-0392-034c126effab}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{fd0ba64b-8207-19bb-0392-034c126effab}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{676554fe-062e-a050-4c62-b0e0fb2854f4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{676554fe-062e-a050-4c62-b0e0fb2854f4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{b081fafd-5425-fe0f-1043-22d44404672b}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{b081fafd-5425-fe0f-1043-22d44404672b}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{593a4b37-4d23-0008-29fc-49257aa4e4a9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{593a4b37-4d23-0008-29fc-49257aa4e4a9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
