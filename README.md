@@ -1,3 +1,5 @@
+# Project (October 2022 - March 2023)
+
 # VR-Simulation-Airport
 Simulation of airport passenger procedures using VR technology (Oculus Quest 2)
 
